@@ -15,7 +15,7 @@ Below is a shortened version of my resume. A longer version is available for dow
 - __M.Sc. Computer Science__, University of Toronto _(2017-2019)_
 - __B.Sc. Biochemistry__, University of Ottawa _(2013-2017)_
 
-## 👨‍💻 Experience
+## 💼 Experience
 
 - __ML/NLP Internship__, [Semantic Scholar](https://www.semanticscholar.org/about), [Allen Institute for Artificial Intelligence](https://allenai.org/) _(May-Sept. 2022)_
 - __ML/NLP Internship__, [Semantic Health](https://www.semantichealth.ai/) _(July-Sept. 2020)_
