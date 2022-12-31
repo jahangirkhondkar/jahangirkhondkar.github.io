@@ -19,7 +19,7 @@ author_profile: true
 
 Peer-reviewed publications.
 
-> Liable to be out-of-date! Please see my [Semantic Scholar profile](https://www.semanticscholar.org/author/John-Giorgi/37585306) for the most up-to-date list of publications & preprints.
+> Please see my [Semantic Scholar profile](https://www.semanticscholar.org/author/John-Giorgi/37585306) for the most up-to-date list of publications & preprints.
 
 ---
 
