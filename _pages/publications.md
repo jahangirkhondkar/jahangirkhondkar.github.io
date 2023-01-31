@@ -47,7 +47,7 @@ __John Giorgi__, Gary Bader. _Bioinformatics_ (2018) [💻 [code](https://github
 
 ## 🌐 Large Scale Contributions
 
-Smaller contributions to huge projects!
+Smaller contributions to huge projects
 
 ---
 
@@ -60,6 +60,8 @@ Smaller contributions to huge projects!
 Stuff that didn't make it to publication but I'm still proud of!
 
 ---
+
+↪ [CiteNet: A Search and Visualization Tool for Scientific Literature](./../files/citenet.pdf), Duncan Forster, __John Giorgi__ (2020) [💻 [code](https://github.com/duncster94/citenet)]
 
 ↪ [End-to-end Named Entity Recognition and Relation Extraction using Pre-trained Language Models](https://arxiv.org/abs/1912.13415),
 __John Giorgi__, Xindi Wang, Nicola Sahar, Won Young Shin, Gary D. Bader, Bo Wang. _arXiv_ (2019) [💻 [code](https://github.com/bowang-lab/joint-ner-and-re)]
