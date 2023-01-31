@@ -25,6 +25,13 @@ Below is a shortened version of my resume. A longer version is available for dow
 - __Head Personal Trainer__, [Anytime Fitness](https://www.anytimefitness.com/gyms/3398/Port-Perry-ON-L9L-1V4/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=3398) _(May-Sept. 2014)_
 - __Children, Family, Youth (CYF) Program Staff__, [YMCA](https://ymcagta.org/find-a-y/oshawa-ymca) _(2011-2016)_
 
+## 🧑‍🏫 Teaching 
+
+- __Teaching Assistant (TA)__, [C4M: Computing for Medicine @ UofT](https://c4m-uoft.github.io/) _(2018, 2019, 2020)_
+- __TA__, [CSC108: Introduction to Computer Programming @ UofT](https://artsci.calendar.utoronto.ca/course/csc108h1) _(2017, 2018, 2020, 2021, 2022)_
+- __TA__, [CSC148: Introduction to Computer Science @ UofT](https://artsci.calendar.utoronto.ca/course/csc148h1) _(2021)_
+- __Head TA__, [CSC413: Neural Networks and Deep Learning @ UofT](https://artsci.calendar.utoronto.ca/course/csc413h1) _(2022, 2023)_
+
 ## 📄 Publications
 
 See [publications](../publications)
