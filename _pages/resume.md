@@ -17,6 +17,7 @@ Below is a shortened version of my resume. A longer version is available for dow
 
 ## 💼 Experience
 
+- __ML/NLP Internship__, [Semantic Scholar](https://www.semanticscholar.org/about), [Allen Institute for Artificial Intelligence](https://allenai.org/) _(May-Current. 2023)_
 - __ML/NLP Internship__, [Semantic Scholar](https://www.semanticscholar.org/about), [Allen Institute for Artificial Intelligence](https://allenai.org/) _(May-Sept. 2022)_
 - __ML/NLP Internship__, [Semantic Health](https://www.semantichealth.ai/) _(July-Sept. 2020)_
 - __Peer Mentoring Work-Study__, [Undergraduate Engineering Mentoring Centre](https://www.uottawa.ca/faculty-engineering/student-experience/mentoring) at the University of Ottawa _(2016-2017)_
