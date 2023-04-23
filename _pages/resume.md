@@ -49,3 +49,16 @@ See [talks](../talks)
 - University of Ottawa Summer International Research Internship (SIRI) scholarship _(2015)_
 - [University of Ottawa Undergraduate Research Opportunity (UROP) scholarship](https://www.uottawa.ca/research-innovation/international-research-experiential-learning/undergraduate-research-opportunity-program) _(2014)_
 - [University of Ottawa Entry scholarship](https://www.uottawa.ca/study/fees-financial-support/scholarships-awards-overview/undergraduate-scholarships-archive), awarded for an admission average of $\ge$ 94.9% _(2013)_
+
+## 🤝 Service
+
+### Professional
+
+Reviewer at the following conferences:
+
+- [__Machine Learning for Health__ @ NeurIPS (ML4H)](https://ml4health.github.io/2022/) (_2020_)
+- [__NeurIPS Datasets and Benchmarks Track__ @ NeurIPS](https://neurips.cc/Conferences/2022/CallForDatasetsBenchmarks) (_2022_)
+- [__International Conference on Computational Linguistics__ (COLING)](https://aclanthology.org/events/coling-2022/) (_2022_)
+- [__Association for Computational Linguistics__ (ACL)](https://aclanthology.org/venues/acl/) (_2023_)
+
+and for various journals, including [Bioinformatics](https://academic.oup.com/bioinformatics), [Nucleic Acids Research](https://academic.oup.com/nar) and others.
