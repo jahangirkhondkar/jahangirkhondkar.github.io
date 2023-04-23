@@ -47,7 +47,7 @@ See [talks](../talks)
 - [Ontario Graduate Scholarship](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html) _(2019, 2020)_
 - [NVIDIA Academic Hardware Grant](https://mynvidia.force.com/HardwareGrant/s/Application) _(2017)_
 - University of Ottawa Summer International Research Internship (SIRI) scholarship _(2015)_
-- [University of Ottawa Undergraduate Research Opportunity (UROP) scholarship](https://www.uottawa.ca/research-innovation/international-research-experiential-learning/undergraduate-research-opportunity-program) _(2014)_
+- [University of Ottawa Undergraduate Research Opportunities Program (UROP)](https://www.uottawa.ca/research-innovation/international-research-experiential-learning/undergraduate-research-opportunity-program) _(2014)_
 - [University of Ottawa Entry scholarship](https://www.uottawa.ca/study/fees-financial-support/scholarships-awards-overview/undergraduate-scholarships-archive), awarded for an admission average of $\ge$ 94.9% _(2013)_
 
 ## 🤝 Service
