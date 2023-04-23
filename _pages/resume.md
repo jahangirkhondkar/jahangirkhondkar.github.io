@@ -11,7 +11,7 @@ Below is a shortened version of my resume. A longer version is available for dow
 
 ## 🎓 Education
 
-- __Ph.D. Computer Science__, University of Toronto _(2019-2023 est.)_
+- __Ph.D. Computer Science__, University of Toronto _(2019-current)_
 - __M.Sc. Computer Science__, University of Toronto _(2017-2019)_
 - __B.Sc. Biochemistry__, University of Ottawa _(2013-2017)_
 
