@@ -23,10 +23,6 @@ Peer-reviewed publications.
 
 ---
 
-↪ [Automated Clinical Note Generation from Doctor-Patient Conversations
-using Large Language Models: Insights from the MEDIQA-Chat Shared
-Task](https://arxiv.org/abs/2212.10526),
-__John Giorgi__, Augustin Toma, Ronald Xie, Bo Wang. _under review @ Clinical NLP_ (2023)
 
 ↪ [Exploring the Challenges of Open Domain Multi-Document Summarization](https://arxiv.org/abs/2212.10526),
 __John Giorgi__, Luca Soldaini, Bo Wang, Gary Bader, Kyle Lo, Lucy Lu Wang, Arman Cohan. _arXiv_ (2022) [💻 [code](https://github.com/allenai/open-mds)]
