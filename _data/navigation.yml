@@ -8,15 +8,15 @@ main:
 
   # - title: "🧑‍🏫 Teaching"
   #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
   - title: "📝 Resume"
     url: /resume/
+
+  - title: "📦 Miscellaneous"
+    url: /portfolio/
     
   # - title: "Guide"
   #   url: /markdown/
