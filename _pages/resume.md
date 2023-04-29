@@ -9,6 +9,8 @@ redirect_from:
 
 Below is a shortened version of my resume. A longer version is available for download [here](../files/resume.pdf).
 
+---
+
 ## 🎓 Education
 
 - __Ph.D. Computer Science__, University of Toronto _(2019-current)_

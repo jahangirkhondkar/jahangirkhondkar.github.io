@@ -17,12 +17,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-Peer-reviewed publications.
-
-> See my [Semantic Scholar profile](https://www.semanticscholar.org/author/John-Giorgi/37585306) for the most up-to-date list of publications & preprints.
+Peer-reviewed publications and preprints
 
 ---
-
 
 ↪ [Exploring the Challenges of Open Domain Multi-Document Summarization](https://arxiv.org/abs/2212.10526),
 __John Giorgi__, Luca Soldaini, Bo Wang, Gary Bader, Kyle Lo, Lucy Lu Wang, Arman Cohan. _arXiv_ (2022) [💻 [code](https://github.com/allenai/open-mds)]

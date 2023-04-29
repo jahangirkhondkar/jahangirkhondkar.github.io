@@ -7,6 +7,10 @@ redirect_from:
   - /misc
 ---
 
+Everything else!
+
+---
+
 ## Projects
 
 ### SciTagger
