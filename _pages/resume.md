@@ -61,9 +61,9 @@ See [talks](../talks)
 
 Reviewer at the following conferences:
 
-- [__Machine Learning for Health__ @ NeurIPS (ML4H)](https://ml4health.github.io/2022/) (_2020_)
-- [__Datasets and Benchmarks Track__ @ NeurIPS](https://neurips.cc/Conferences/2022/CallForDatasetsBenchmarks) (_2022_, _2023_)
-- [__International Conference on Computational Linguistics__ (COLING)](https://aclanthology.org/events/coling-2022/) (_2022_)
-- [__Association for Computational Linguistics__ (ACL)](https://aclanthology.org/venues/acl/) (_2023_)
+- [Machine Learning for Health @ NeurIPS (ML4H)](https://ml4health.github.io/2022/) (_2020_)
+- [Datasets and Benchmarks Track @ NeurIPS](https://neurips.cc/Conferences/2022/CallForDatasetsBenchmarks) (_2022_, _2023_)
+- [International Conference on Computational Linguistics (COLING)](https://aclanthology.org/events/coling-2022/) (_2022_)
+- [Association for Computational Linguistics (ACL)](https://aclanthology.org/venues/acl/) (_2023_)
 
 and for various journals, including [Bioinformatics](https://academic.oup.com/bioinformatics), [Nucleic Acids Research](https://academic.oup.com/nar) and others.
