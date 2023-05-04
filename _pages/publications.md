@@ -21,6 +21,9 @@ Peer-reviewed publications and preprints
 
 ---
 
+↪ [Clinical Note Generation from Doctor-Patient Conversations using Large Language Models: Insights from MEDIQA-Chat](https://arxiv.org/abs/2305.02220),
+__John Giorgi__, Augustin Toma, Ronald Xie, Sondra S. Chen, Kevin R. An, Grace X. Zheng, Bo Wang _arXiv_ (2023) [💻 [code](https://github.com/bowang-lab/MEDIQA-Chat-2023-WangLab)]
+
 ↪ [Exploring the Challenges of Open Domain Multi-Document Summarization](https://arxiv.org/abs/2212.10526),
 __John Giorgi__, Luca Soldaini, Bo Wang, Gary Bader, Kyle Lo, Lucy Lu Wang, Arman Cohan. _arXiv_ (2022) [💻 [code](https://github.com/allenai/open-mds)]
 
