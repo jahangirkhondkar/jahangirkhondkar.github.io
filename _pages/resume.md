@@ -67,5 +67,6 @@ Reviewer at the following conferences:
 - [Datasets and Benchmarks Track @ NeurIPS](https://neurips.cc/Conferences/2022/CallForDatasetsBenchmarks) (_2022_, _2023_)
 - [International Conference on Computational Linguistics (COLING)](https://aclanthology.org/events/coling-2022/) (_2022_)
 - [Association for Computational Linguistics (ACL)](https://aclanthology.org/venues/acl/) (_2023_)
+- [Conference on Empirical Methods in Natural Language Processing (EMNLP)](https://2023.emnlp.org/) (_2023_)
 
-and for various journals, including [Bioinformatics](https://academic.oup.com/bioinformatics), [Nucleic Acids Research](https://academic.oup.com/nar) and others.
+and for various journals, including [Bioinformatics](https://academic.oup.com/bioinformatics).
