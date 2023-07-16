@@ -45,6 +45,10 @@ See [talks](../talks)
   
 ## 🏅 Awards & Honours
 
+### Awards
+
+- __Best Shared Task Paper Award__ at [ClinicalNLP 2023](https://clinical-nlp.github.io/2023/), for the paper [WangLab at MEDIQA-Chat 2023: Clinical Note Generation from Doctor-Patient Conversations using Large Language Models](https://arxiv.org/abs/2305.02220)
+
 ### Grants
 
 - [NVIDIA Academic Hardware Grant](https://mynvidia.force.com/HardwareGrant/s/Application) _(2017)_
