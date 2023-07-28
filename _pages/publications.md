@@ -24,14 +24,14 @@ Peer-reviewed publications and preprints
 ↪ [Large Language Models are Fixated by Red Herrings: Exploring Creative Problem Solving and Einstellung Effect using the Only Connect Wall Dataset](https://arxiv.org/abs/2306.11167),
 Saeid Naeini, Raeid Saqur, Mozhgan Saeidi, __John Giorgi__, Babak Taati. _arXiv_ (2023) [💻 [code](https://github.com/TaatiTeam/OCW)]
 
-↪ [WangLab at MEDIQA-Chat 2023: Clinical Note Generation from Doctor-Patient Conversations using Large Language Models](https://arxiv.org/abs/2305.02220),
-__John Giorgi__, Augustin Toma, Ronald Xie, Sondra S. Chen, Kevin R. An, Grace X. Zheng, Bo Wang. _arXiv_ (2023) [💻 [code](https://github.com/bowang-lab/MEDIQA-Chat-2023-WangLab)]
+↪ [WangLab at MEDIQA-Chat 2023: Clinical Note Generation from Doctor-Patient Conversations using Large Language Models](https://aclanthology.org/2023.clinicalnlp-1.36/),
+__John Giorgi__, Augustin Toma, Ronald Xie, Sondra S. Chen, Kevin R. An, Grace X. Zheng, Bo Wang. _ClinicalNLP @ ACL_ (2023) [💻 [code](https://github.com/bowang-lab/MEDIQA-Chat-2023-WangLab)]
 
 ↪ [Towards Multi-Document Summarization in the Open-Domain](https://arxiv.org/abs/2212.10526),
 __John Giorgi__, Luca Soldaini, Bo Wang, Gary Bader, Kyle Lo, Lucy Lu Wang, Arman Cohan. _arXiv_ (2022) [💻 [code](https://github.com/allenai/open-mds)]
 
 ↪ [A sequence-to-sequence approach for document-level relation extraction](https://aclanthology.org/2022.bionlp-1.2/),
-__John Giorgi__, Gary Bader, Bo Wang. _BioNLP@ACL_ (2022) [💻 [code](https://github.com/johngiorgi/seq2rel) | ⚙️ [demo](https://share.streamlit.io/johngiorgi/seq2rel/main/demo.py) | 🎥 [video](https://underline.io/lecture/51397-a-sequence-to-sequence-approach-for-document-level-relation-extraction) | 🛝 [slides](https://docs.google.com/presentation/d/1eJ3uFakfjSFmuMrYiA-PtMY5QFhm8kRSykFkkxw_6LM/edit?usp=sharing)]
+__John Giorgi__, Gary Bader, Bo Wang. _BioNLP @ ACL_ (2022) [💻 [code](https://github.com/johngiorgi/seq2rel) | ⚙️ [demo](https://share.streamlit.io/johngiorgi/seq2rel/main/demo.py) | 🎥 [video](https://underline.io/lecture/51397-a-sequence-to-sequence-approach-for-document-level-relation-extraction) | 🛝 [slides](https://docs.google.com/presentation/d/1eJ3uFakfjSFmuMrYiA-PtMY5QFhm8kRSykFkkxw_6LM/edit?usp=sharing)]
 
 ↪ [DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations](https://aclanthology.org/2021.acl-long.72/),
 __John Giorgi__, Osvald Nitski, Bo Wang, Gary Bader. _ACL-IJCNLP_ (2021) [💻 [code](https://github.com/JohnGiorgi/DeCLUTR) | 🪧 [poster](https://drive.google.com/file/d/17PfPPMJEn_v1VmvhMtu65TY1blf0_LjA/view?usp=sharing) | 🎥 [video](https://aclanthology.org/2021.acl-long.72.mp4) | 🛝 [slides](https://docs.google.com/presentation/d/1Xm5HiGIyRTb28aw-VnCM12mUyZCSl0tZR1W-UyAW6AQ/edit?usp=sharing)]

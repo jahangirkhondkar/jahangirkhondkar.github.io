@@ -47,7 +47,7 @@ See [talks](../talks)
 
 ### Awards
 
-- __Best Shared Task Paper Award__ at [ClinicalNLP 2023](https://clinical-nlp.github.io/2023/), for the paper [WangLab at MEDIQA-Chat 2023: Clinical Note Generation from Doctor-Patient Conversations using Large Language Models](https://arxiv.org/abs/2305.02220)
+- __Best Shared Task Paper Award__ at [ClinicalNLP 2023](https://clinical-nlp.github.io/2023/), for the paper [WangLab at MEDIQA-Chat 2023: Clinical Note Generation from Doctor-Patient Conversations using Large Language Models](https://aclanthology.org/2023.clinicalnlp-1.36/)
 
 ### Grants
 
@@ -68,9 +68,11 @@ See [talks](../talks)
 Reviewer at the following conferences:
 
 - [Machine Learning for Health @ NeurIPS (ML4H)](https://ml4health.github.io/2022/) (_2020_)
+- [BioNLP @ ACL](https://aclweb.org/aclwiki/BioNLP_Workshop) (_2022_)
 - [Datasets and Benchmarks Track @ NeurIPS](https://neurips.cc/Conferences/2022/CallForDatasetsBenchmarks) (_2022_, _2023_)
 - [International Conference on Computational Linguistics (COLING)](https://aclanthology.org/events/coling-2022/) (_2022_)
 - [Association for Computational Linguistics (ACL)](https://aclanthology.org/venues/acl/) (_2023_)
+- [ClinicalNLP @ ACL](https://clinical-nlp.github.io/2023/) (_2023_)
 - [Conference on Empirical Methods in Natural Language Processing (EMNLP)](https://2023.emnlp.org/) (_2023_)
 
 and for various journals, including [Bioinformatics](https://academic.oup.com/bioinformatics).
