@@ -22,7 +22,7 @@ Peer-reviewed publications and preprints
 ---
 
 ↪ [Large Language Models are Fixated by Red Herrings: Exploring Creative Problem Solving and Einstellung Effect using the Only Connect Wall Dataset](https://arxiv.org/abs/2306.11167),
-Saeid Naeini, Raeid Saqur, Mozhgan Saeidi, __John Giorgi__, Babak Taati. _arXiv_ (2023) [💻 [code](https://github.com/TaatiTeam/OCW)]
+Saeid Naeini, Raeid Saqur, Mozhgan Saeidi, __John Giorgi__, Babak Taati. _NeurIPS Datasets and Benchmarks Track_ (2023) [💻 [code](https://github.com/TaatiTeam/OCW)]
 
 ↪ [WangLab at MEDIQA-Chat 2023: Clinical Note Generation from Doctor-Patient Conversations using Large Language Models](https://aclanthology.org/2023.clinicalnlp-1.36/),
 __John Giorgi__, Augustin Toma, Ronald Xie, Sondra S. Chen, Kevin R. An, Grace X. Zheng, Bo Wang. _ClinicalNLP @ ACL_ (2023) [💻 [code](https://github.com/bowang-lab/MEDIQA-Chat-2023-WangLab)]
