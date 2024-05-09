@@ -21,6 +21,8 @@ Peer-reviewed publications and preprints
 
 ---
 
+↪ [TOPICAL: TOPIC Pages AutomagicaLly](https://arxiv.org/abs/2405.01796), __John Giorgi__, Amanpreet Singh, Doug Downey, Sergey Feldman, Lucy Lu Wang. _NAACL Demo Track_ (2024) [💻 [code](https://github.com/JohnGiorgi/TOPICAL) | ⚙️ [demo](https://s2-topical.apps.allenai.org)]
+
 ↪ [Large Language Models are Fixated by Red Herrings: Exploring Creative Problem Solving and Einstellung Effect using the Only Connect Wall Dataset](https://arxiv.org/abs/2306.11167),
 Saeid Naeini, Raeid Saqur, Mozhgan Saeidi, __John Giorgi__, Babak Taati. _NeurIPS Datasets and Benchmarks Track_ (2023) [💻 [code](https://github.com/TaatiTeam/OCW)]
 
