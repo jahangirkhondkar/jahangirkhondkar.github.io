@@ -82,34 +82,34 @@ analytics:
 author:
   name             : "Md Jahangir Alam Khondkar"
   avatar           : "profile.png"
-  bio              : "Computer science Ph.D. student at the University of Toronto. Interested in all things ML/AI/NLP."
-  location         : "Toronto, Canada"
+  bio              : "Ph.D. student in computer science at the University of North Carolina at Charlotte. Interested in all things ML/AI."
+  location         : "Charlotte, NC, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+giorgi"
-  googlescholar    : "https://scholar.google.ca/citations?user=TNFEhK4AAAAJ&hl=en"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+giorgi"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=V7GmEKMAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Md-Jahangir-Alam-Khondkar"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/jahangir.khondkar.5"
   foursquare       :
-  github           : "johngiorgi"
+  github           : "https://github.com/jahangirkhondkar"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/jahangirkhondkar/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "john-giorgi"
-  orcid            : "https://orcid.org/0000-0001-9621-5046"
+  linkedin         : "https://www.linkedin.com/in/md-jahangir-alam-khondkar-96b367123/"
+  orcid            : "https://orcid.org/0009-0003-0118-3283"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "johnmgiorgi"
+  twitter          : #"johnmgiorgi"
   vine             :
   weibo            :
   xing             :
