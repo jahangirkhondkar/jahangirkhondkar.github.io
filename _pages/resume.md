@@ -13,14 +13,15 @@ Below is a shortened version of my resume. A longer version is available for dow
 
 ## 🎓 Education
 
-- __Ph.D. Computer Science__, University of Toronto _(2019-current)_
-- __M.Sc. Computer Science__, University of Toronto _(2017-2019)_
-- __B.Sc. Biochemistry__, University of Ottawa _(2013-2017)_
+- __Ph.D. Computer Science__, University of North Carolina at Charlotte, NC, USA _(Spring,2025-current)_
+- __M.Sc. Electrical and Computer Engineering__, Clarkson University, Potsdam, NY, USA _(2023-2024)_
+- __M.Sc. Computer Science and Engineering__, Stamford University, Dhaka, Bangladesh _(2021-2022)_
+- __B.Sc. Electronics and Communication Engineering__, IST, NU, Dhaka, Bangladesh _(2007-2011)_
 
 ## 💼 Experience
 
-- __ML/NLP Internship__, [Semantic Scholar](https://www.semanticscholar.org/about), [Allen Institute for Artificial Intelligence](https://allenai.org/) _(May-Current. 2023)_
-- __ML/NLP Internship__, [Semantic Scholar](https://www.semanticscholar.org/about), [Allen Institute for Artificial Intelligence](https://allenai.org/) _(May-Sept. 2022)_
+- __Research Assistant__, [Computing & Information Systems, University of North Carolina at Charlotte](https://www.charlotte.edu). _(January 2025-Current.)_
+- __Teaching Assistant__, [Electrical and Computer Engineering Dept, Clarkson University, Potsdam, NY](https://www.), [Allen Institute for Artificial Intelligence](https://allenai.org/) _(May-Sept. 2022)_
 - __ML/NLP Internship__, [Semantic Health](https://www.semantichealth.ai/) _(July-Sept. 2020)_
 - __Peer Mentoring Work-Study__, [Undergraduate Engineering Mentoring Centre](https://www.uottawa.ca/faculty-engineering/student-experience/mentoring) at the University of Ottawa _(2016-2017)_
 - __Data Science Internship__, [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/?lidx=1) _(May-Aug. 2016)_
