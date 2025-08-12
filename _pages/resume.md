@@ -49,7 +49,7 @@ See [talks](../talks)
 ### Awards
 
 - __5th Place Finalist, Sierrathon – PCB Design for Innovation Competition__ at [Sierra Circuits, University of San Jose, California – 2024](https://sierraconnect.protoexpress.com/t/sierrathon-a-pcb-design-hackathon-for-engineering-students/1761), as a part of CPADM, Clarkson University (https://announcements.clarkson.edu/2024/12/17/ece-student-group-won-5th-prize-in-inaugural-pcb-design-competition-in-san-jose/)
-- __3rd Place, CITeR – Project Showcasing Competition__ at [CITeR Event, Clarkson University, Potsdam, NY – 2023] (https://citer.clarkson.edu/)
+- __2nd Place, CITeR – Project Showcasing Competition__ at [CITeR Event, Clarkson University, Potsdam, NY – 2023] (https://citer.clarkson.edu/)
 
 ### Grants
 
